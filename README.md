@@ -38,6 +38,8 @@ Lowest Payment: 180
 
 ## About the course
 "MITx: 6.00.1x Introduction to Computer Science and Programming Using Python" is just what the title entails, with the high quality of MIT. 
+
 _12 Lectures, 8 weeks, 7 Problem Sets, 2 exams and one verified certificate from MIT itself._ :wink:
 
+---
 All files written by me, unless otherwise stated.
